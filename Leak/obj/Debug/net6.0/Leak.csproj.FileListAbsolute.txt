@@ -1,0 +1,15 @@
+C:\Users\janni\Desktop\Leak\Leak\bin\Debug\net6.0\Leak.exe
+C:\Users\janni\Desktop\Leak\Leak\bin\Debug\net6.0\Leak.deps.json
+C:\Users\janni\Desktop\Leak\Leak\bin\Debug\net6.0\Leak.runtimeconfig.json
+C:\Users\janni\Desktop\Leak\Leak\bin\Debug\net6.0\Leak.dll
+C:\Users\janni\Desktop\Leak\Leak\bin\Debug\net6.0\Leak.pdb
+C:\Users\janni\Desktop\Leak\Leak\obj\Debug\net6.0\Leak.csproj.AssemblyReference.cache
+C:\Users\janni\Desktop\Leak\Leak\obj\Debug\net6.0\Leak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janni\Desktop\Leak\Leak\obj\Debug\net6.0\Leak.AssemblyInfoInputs.cache
+C:\Users\janni\Desktop\Leak\Leak\obj\Debug\net6.0\Leak.AssemblyInfo.cs
+C:\Users\janni\Desktop\Leak\Leak\obj\Debug\net6.0\Leak.csproj.CoreCompileInputs.cache
+C:\Users\janni\Desktop\Leak\Leak\obj\Debug\net6.0\Leak.dll
+C:\Users\janni\Desktop\Leak\Leak\obj\Debug\net6.0\refint\Leak.dll
+C:\Users\janni\Desktop\Leak\Leak\obj\Debug\net6.0\Leak.pdb
+C:\Users\janni\Desktop\Leak\Leak\obj\Debug\net6.0\Leak.genruntimeconfig.cache
+C:\Users\janni\Desktop\Leak\Leak\obj\Debug\net6.0\ref\Leak.dll
